@@ -1,6 +1,6 @@
 :heart_decoration: Hi, this is @KalmanEafit's repository :honeybee:
 
-* 👀 interests: Data Assimilation, EnKF-MC method, atmospheric research and operational forecasting applications.
+* 👀 Interests: Data Assimilation, EnKF-MC method, atmospheric research and operational forecasting applications.
 
 * :closed_book: We are currently working into mathematic solutions for global issues. 
 
